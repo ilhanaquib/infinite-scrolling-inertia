@@ -1,10 +1,11 @@
 <?php
 
-use App\Http\Controllers\CommentsController;
-use App\Http\Controllers\ProfileController;
-use Illuminate\Foundation\Application;
-use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
+use Illuminate\Support\Facades\Route;
+use Illuminate\Foundation\Application;
+use App\Http\Controllers\VideoController;
+use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\CommentsController;
 
 /*
 |--------------------------------------------------------------------------
